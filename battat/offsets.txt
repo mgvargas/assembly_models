@@ -1,0 +1,35 @@
+Position of airplane parts with respect to horizontal holder center (cm):
+
+- Chassis:
+Delta X: 0.084 m
+Delta Y: 0 m
+Delta Z: 0.052 m
+
+- Left front wheel:
+Delta X: 0.084 m
+Delta Y: 0.03 m
+Delta Z: 0.013 m
+
+- Left nut:
+Delta X: 0.084 m
+Delta Y: 0.031 m
+Delta Z: 0.013 m
+
+- Right front wheel:
+Delta X: 0.084 m
+Delta Y: -0.03 m
+Delta Z: 0.013 m
+
+- Right nut:
+Delta X: 0.084 m
+Delta Y: -0.031 m
+Delta Z: 0.013 m
+
+- Rear wing:
+Delta X: 0.075 m
+Delta Y: -0.002 m
+Delta Z: 0.023 m
+
+
+
+
